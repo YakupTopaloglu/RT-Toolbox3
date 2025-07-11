@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Workspace>
+	<Workspace_Title>parcaalma</Workspace_Title>
+	<Workspace_Vertion>1.2.0</Workspace_Vertion>
+	<Workspace_Date>2025/06/15 13:53:43</Workspace_Date>
+	<Project>RC1</Project>
+	<Display3D>
+		<RobotModelType>0</RobotModelType>
+	</Display3D>
+	<Project>RC2</Project>
+	<ScreenRect>
+		<Screen160>
+			<AdditionalInfo/>
+			<Left>0</Left>
+			<Top>0</Top>
+			<Right>316</Right>
+			<Bottom>367</Bottom>
+		</Screen160>
+	</ScreenRect>
+	<LastLayoutSelect>LAYOUT</LastLayoutSelect>
+	<LastSimulationSelect>
+		<ProjectName>RC1</ProjectName>
+		<ProjectName>RC2</ProjectName>
+	</LastSimulationSelect>
+	<IOSimulator>
+		<FilePathType>0</FilePathType>
+		<FilePath>C:\Yedek\Belgeler\Proje2\@IOSimulator@\IO6.xml</FilePath>
+		<AutoStart>0</AutoStart>
+	</IOSimulator>
+</Workspace>
